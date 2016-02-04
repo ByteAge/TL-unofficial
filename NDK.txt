@@ -1,0 +1,1 @@
+ndk-build NDK_PROJECT_PATH=K:\AndroidDev\Telegram\Telegram-master\TMessagesProj NDK_APPLICATION_MK=K:\AndroidDev\Telegram\Telegram-master\TMessagesProj\src\main\jni\Application.mk

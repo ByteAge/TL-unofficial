@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="divider">#dcdcdc</color>
+    <color name="white">#ffffff</color>
+
+    <color name="primary">#137FAC</color>
+    <color name="primary_dark">#0c5776</color>
+    <color name="primary_light">#81D4FA</color>
+
+    <color name="rdivider">#B6B6B6</color>
+    <color name="divider_20">#33B6B6B6</color>
+    <color name="divider_40">#66B6B6B6</color>
+    <color name="divider_10">#1AB6B6B6</color>
+
+    <color name="bg_dark">#EDF4FE</color>
+    <color name="bg_light">#F5FAFF</color>
+
+
+    <color name="timeOut">#70B15C</color>
+    <color name="timeInS">#89B4C1</color>
+    <color name="timeIn">#A1AAB3</color>
+</resources>

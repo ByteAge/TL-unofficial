@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_gravity="bottom"
+    android:orientation="horizontal" android:layout_width="match_parent" android:gravity="right"
+    android:layout_height="wrap_content" >
+
+
+
+
+    <ImageView android:src="@drawable/bot_list" android:scaleType="center" android:tint="#ffffff"
+        android:layout_width="48dp"
+        android:layout_height="48dp" android:tag="bot"/>
+    <ImageView android:src="@drawable/menu_newgroup" android:scaleType="center" android:tint="#ffffff"
+        android:layout_width="48dp"
+        android:layout_height="48dp" android:tag="topar"/>
+    <ImageView android:src="@drawable/menu_broadcast" android:scaleType="center" android:tint="#ffffff"
+        android:layout_width="48dp"
+        android:layout_height="48dp" android:tag="channel" />
+    <ImageView android:src="@drawable/menu_contacts" android:scaleType="center" android:tint="#ffffff"
+        android:layout_width="48dp"
+        android:layout_height="48dp" android:tag="contact"/>
+    <ImageView android:src="@drawable/notification" android:scaleType="center" android:tint="#ffffff"
+        android:layout_width="48dp"
+        android:layout_height="48dp" android:tag="telegram" />
+    <ImageView android:src="@drawable/ic_visibility_white_24dp" android:scaleType="center"
+        android:layout_width="48dp"
+        android:layout_height="48dp" android:tag="unread"/>
+    <ImageView android:src="@drawable/floating_pencil" android:scaleType="center"
+        android:layout_width="48dp"
+        android:layout_height="48dp" android:tag="start"/>
+
+
+
+</LinearLayout>

@@ -23,16 +23,8 @@ android {
     }
     signingConfigs {
         debug {
-            storeFile file("J:\\Software\\StoreKeys\\ChitChatTelegram\\release.jks")
-            storePassword 'A9guacJy45UPuZOhzpZ8'
-            keyAlias 'Tisad organization'
-            keyPassword '0VmkrZ3xq2xunyrgKb5S'
         }
         release {
-            storeFile file("J:\\Software\\StoreKeys\\ChitChatTelegram\\release.jks")
-            storePassword 'A9guacJy45UPuZOhzpZ8'
-            keyAlias 'Tisad organization'
-            keyPassword '0VmkrZ3xq2xunyrgKb5S'
         }
     }
     buildTypes {
